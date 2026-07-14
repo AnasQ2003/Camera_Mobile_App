@@ -15,7 +15,7 @@
 
 The **Camera Application** is a native Android app that demonstrates how to integrate hardware camera functionality into a mobile application using the Android `MediaStore` Intent API. It allows a user to launch the device camera directly from within the app, capture a photo, and instantly display the captured image full-screen inside the application — all within a clean, minimal single-screen interface.
 
-This project was developed as part of coursework at **TechNet Cloud** to demonstrate core Android development principles including `Intent`-based activity communication, `onActivityResult` result handling, and bitmap rendering via `ImageView`.
+This project was developed to demonstrate core Android development principles including `Intent`-based activity communication, `onActivityResult` result handling, and bitmap rendering via `ImageView`.
 
 ---
 
