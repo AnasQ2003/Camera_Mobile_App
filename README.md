@@ -1,3 +1,5 @@
+<div align="center">
+
 # 📷 Camera Application — Native Android Camera Integration
 
 > A clean, focused Android application that demonstrates real-time hardware camera access using the Android Intent API, built with Java and Android Studio.
@@ -8,6 +10,8 @@
 [![Java](https://img.shields.io/badge/Java-8-ED8B00.svg?style=flat-square&logo=openjdk)](https://www.java.com/)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-Hedgehog-3DDC84.svg?style=flat-square&logo=android-studio)](https://developer.android.com/studio)
 [![Compile SDK](https://img.shields.io/badge/Compile_SDK-34-blue.svg?style=flat-square)](https://developer.android.com/about/versions/14)
+
+</div>
 
 ---
 
@@ -162,7 +166,7 @@ imageView.setImageBitmap(photo) — preview displayed
 ```
 MIT License
 
-Copyright (c) Camera Mobile App---2026 AnasQ2003
+Copyright (c) Camera Mobile App --- 2026 AnasQ2003
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
